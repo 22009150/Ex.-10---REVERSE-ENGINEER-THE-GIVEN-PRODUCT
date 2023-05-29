@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/22009150/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118708624/25d6f12b-ec1a-4725-a1ec-660684fb8061)
 
 ### Output:
+![image](https://github.com/22009150/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118708624/24df9a75-a0fd-4358-9fb8-bfb449c28b85)
 
 
-### Name:
-### Register Number:
+### Name:Archana.k
+### Register Number:212222240011
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
